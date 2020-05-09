@@ -23,4 +23,4 @@ I found this dataset in Kaggle, and [this dataset](https://www.kaggle.com/ikarus
 * Deathyear
 * Birthyear
 * Age
-* Genre
+* Genre sad
